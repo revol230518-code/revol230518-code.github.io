@@ -4,12 +4,56 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Breath & Motion</title>
+  <meta name="description" content="Breath & Motion — breathing and movement timer for daily wellness." />
+  <style>
+    :root{
+      --bg:#0b1020;      /* deep navy */
+      --panel:#111a33;   /* indigo */
+      --text:#f2f5ff;    /* off-white */
+      --muted:#b9c2e6;
+      --line:rgba(255,255,255,.12);
+      --accent:#9fb3ff;  /* soft indigo highlight */
+    }
+    body{margin:0;background:radial-gradient(1000px 500px at 20% 10%, rgba(159,179,255,.18), transparent 60%), var(--bg); color:var(--text); font-family:system-ui,-apple-system,Segoe UI,Roboto,"Noto Sans",sans-serif;}
+    .wrap{max-width:920px;margin:0 auto;padding:28px 18px 40px;}
+    .card{background:linear-gradient(180deg, rgba(255,255,255,.06), rgba(255,255,255,.03)); border:1px solid var(--line); border-radius:18px; padding:18px 18px;}
+    h1{margin:6px 0 10px;font-size:28px;letter-spacing:.3px}
+    p{margin:8px 0;color:var(--muted);line-height:1.6}
+    .row{display:flex;gap:12px;flex-wrap:wrap;margin-top:14px}
+    a.btn{display:inline-block;padding:10px 12px;border-radius:14px;border:1px solid var(--line);color:var(--text);text-decoration:none}
+    a.btn:hover{border-color:rgba(159,179,255,.55)}
+    .tag{display:inline-block;margin:0 8px 0 0;padding:4px 10px;border-radius:999px;border:1px solid var(--line);color:var(--muted);font-size:12px}
+    .small{font-size:12px;color:var(--muted)}
+    .hr{height:1px;background:var(--line);margin:16px 0}
+  </style>
 </head>
-<body style="font-family: system-ui; padding: 24px;">
-  <h1>Breath & Motion</h1>
-  <p>Official page.</p>
-  <ul>
-    <li><a href="./privacy.html">Privacy Policy</a></li>
-  </ul>
+<body>
+  <div class="wrap">
+    <div class="card">
+      <span class="tag">Breathing</span><span class="tag">Timer</span><span class="tag">Movement</span>
+      <h1>Breath & Motion</h1>
+      <p>A simple breathing + movement timer designed for everyday practice.</p>
+      <p class="small">呼吸と運動のタイマーアプリです（英語メイン／日本語補助）。</p>
+
+      <div class="hr"></div>
+
+      <p class="small">
+        Disclaimer: This app is for general wellness and does not provide medical diagnosis or treatment.<br/>
+        免責：本アプリは一般的な健康増進を目的としており、医療行為・診断・治療ではありません。
+      </p>
+
+      <div class="row">
+        <a class="btn" href="./privacy.html">Privacy Policy</a>
+        <a class="btn" href="./support.html">Support</a>
+      </div>
+
+      <div class="hr"></div>
+
+      <p class="small">
+        Audio note (optional): Some background music was created using generative AI tools.<br/>
+        音について（任意）：一部BGMは生成AIツールを用いて制作しています。
+      </p>
+    </div>
+  </div>
 </body>
 </html>
