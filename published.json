@@ -1,11 +1,11 @@
 {
   "meta": {
     "schemaVersion": 1,
-    "contentVersion": 14,
-    "updatedAt": "2026-02-21T16:52:42.788Z",
+    "contentVersion": 16,
+    "updatedAt": "2026-02-21T16:53:00.253Z",
     "note": "Generated from Google Sheets by GAS (approval ok/ng)"
   },
-  "generatedAt": "2026-02-21T16:52:42.788Z",
+  "generatedAt": "2026-02-21T16:53:00.253Z",
   "shops": [
     {
       "id": "0f382847-aaa5-40ad-ae27-de89c5b8dbb1",
@@ -40,5 +40,26 @@
       "_listingType": "店舗情報"
     }
   ],
-  "events": []
+  "events": [
+    {
+      "id": "aaca61c9-6d5c-4568-aa9a-d38892f0b6b1",
+      "title": "りらっくキャンペーン",
+      "type": "town",
+      "startDate": "2026-02-22",
+      "endDate": "2026-03-14",
+      "place": "整体ジムりらっく",
+      "mapUrl": "https://share.google/tQRBfE7KB0V8l6wHW",
+      "summary": "",
+      "officialUrl": "https://r-evol.jp/",
+      "attachments": [
+        {
+          "type": "pdf",
+          "title": "資料PDF",
+          "url": "https://drive.google.com/uc?export=download&id=150Q7-3D1U_kAQ_ZjLQ7IZt_HN04jbeWM"
+        }
+      ],
+      "feeText": "５００円",
+      "phone": "090-0000-1111"
+    }
+  ]
 }
