@@ -1,5 +1,19 @@
 {
-  "generatedAt": "2026-02-20T17:28:12.390Z",
-  "shops": [],
+  "meta": {
+    "schemaVersion": 1,
+    "contentVersion": 1,
+    "updatedAt": "2026-02-21T11:06:56.691Z",
+    "note": "Generated from Google Sheets by GAS (approval ok/ng)"
+  },
+  "generatedAt": "2026-02-21T11:06:56.694Z",
+  "shops": [
+    {
+      "id": "f5f404a1-904e-4a0b-b5b8-7ecdcf890317",
+      "name": "りらっく",
+      "mapUrl": "https://share.google/YdpIfEiRqIIotVAzK",
+      "relatedShopId": "",
+      "_listingType": "店舗情報"
+    }
+  ],
   "events": []
 }
