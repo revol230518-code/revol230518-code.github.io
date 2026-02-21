@@ -1,16 +1,41 @@
 {
   "meta": {
     "schemaVersion": 1,
-    "contentVersion": 4,
-    "updatedAt": "2026-02-21T11:15:25.275Z",
+    "contentVersion": 6,
+    "updatedAt": "2026-02-21T13:34:24.176Z",
     "note": "Generated from Google Sheets by GAS (approval ok/ng)"
   },
-  "generatedAt": "2026-02-21T11:15:25.277Z",
+  "generatedAt": "2026-02-21T13:34:24.176Z",
   "shops": [
     {
       "id": "0ad7a2c8-d06d-43f9-8076-63cbdfb160e0",
       "name": "りらっく",
+      "category": "その他",
+      "summary": "SEITAI！",
+      "address": "波佐見町折敷瀬郷838-5",
       "mapUrl": "https://share.google/YdpIfEiRqIIotVAzK",
+      "hours": "10:37〜20:37",
+      "closed": "日, 不定休",
+      "officialUrl": "https://r-evol.jp/",
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1t55AVk3mH9TEb3O_YY0I-oiVNUNpyKB-",
+        "https://drive.google.com/uc?export=view&id=1BQ6afykhDhgjDFrG0ontK9Av7s637BWi",
+        "https://drive.google.com/uc?export=view&id=1FaapoDyhXKxRvSyeXmeh__mATxAfjF-W"
+      ],
+      "attachments": [
+        {
+          "type": "pdf",
+          "title": "資料PDF1",
+          "url": "https://drive.google.com/uc?export=download&id=14JMdwesH6-A5_9aA5PH9Uq6-rab62iC9"
+        },
+        {
+          "type": "pdf",
+          "title": "資料PDF2",
+          "url": "https://drive.google.com/uc?export=download&id=1ujQN8n_wOZeoXPp1ugCFOk1gzJYDcyjJ"
+        }
+      ],
+      "feeText": "5000",
+      "phone": "080-0000-1111",
       "relatedShopId": "",
       "_listingType": "店舗情報"
     }
