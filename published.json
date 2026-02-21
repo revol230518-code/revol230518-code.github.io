@@ -1,20 +1,20 @@
 {
   "meta": {
     "schemaVersion": 1,
-    "contentVersion": 8,
-    "updatedAt": "2026-02-21T13:35:39.538Z",
+    "contentVersion": 9,
+    "updatedAt": "2026-02-21T14:42:24.140Z",
     "note": "Generated from Google Sheets by GAS (approval ok/ng)"
   },
-  "generatedAt": "2026-02-21T13:35:39.538Z",
+  "generatedAt": "2026-02-21T14:42:24.140Z",
   "shops": [
     {
-      "id": "0ad7a2c8-d06d-43f9-8076-63cbdfb160e0",
+      "id": "d33e3cc4-674a-43e7-9e21-6262699a8bfe",
       "name": "りらっく",
       "category": "その他",
       "summary": "SEITAI！",
       "address": "波佐見町折敷瀬郷838-5",
       "mapUrl": "https://share.google/YdpIfEiRqIIotVAzK",
-      "hours": "10:37〜20:37",
+      "hours": "10:00〜20:00",
       "closed": "日, 不定休",
       "officialUrl": "https://r-evol.jp/",
       "images": [
