@@ -1,14 +1,14 @@
 {
   "meta": {
     "schemaVersion": 1,
-    "contentVersion": 10,
-    "updatedAt": "2026-02-21T14:43:06.059Z",
+    "contentVersion": 12,
+    "updatedAt": "2026-02-21T14:43:40.842Z",
     "note": "Generated from Google Sheets by GAS (approval ok/ng)"
   },
-  "generatedAt": "2026-02-21T14:43:06.059Z",
+  "generatedAt": "2026-02-21T14:43:40.842Z",
   "shops": [
     {
-      "id": "d33e3cc4-674a-43e7-9e21-6262699a8bfe",
+      "id": "0f382847-aaa5-40ad-ae27-de89c5b8dbb1",
       "name": "りらっく",
       "category": "その他",
       "summary": "SEITAI！",
