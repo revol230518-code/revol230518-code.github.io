@@ -1,11 +1,11 @@
 {
   "meta": {
     "schemaVersion": 1,
-    "contentVersion": 22,
-    "updatedAt": "2026-02-26T14:14:04.181Z",
-    "note": "Generated from Google Sheets by GAS (approval ok/ng) [B-mode: no Drive permission changes]"
+    "contentVersion": 23,
+    "updatedAt": "2026-02-26T14:26:33.096Z",
+    "note": "Generated from Google Sheets by GAS (approval ok/ng) [B-mode: no Drive permission changes] + lat/lng from mapUrl"
   },
-  "generatedAt": "2026-02-26T14:14:04.181Z",
+  "generatedAt": "2026-02-26T14:26:33.096Z",
   "shops": [
     {
       "id": "5f37e2d8-779a-4d27-838f-535dde3ba191",
@@ -26,12 +26,12 @@
         {
           "type": "pdf",
           "title": "資料PDF1",
-          "url": "https://drive.google.com/uc?export=download&id=14JMdwesH6-A5_9aA5PH9Uq6-rab62iC9"
+          "url": "https://drive.google.com/uc?export=view&id=14JMdwesH6-A5_9aA5PH9Uq6-rab62iC9"
         },
         {
           "type": "pdf",
           "title": "資料PDF2",
-          "url": "https://drive.google.com/uc?export=download&id=1ujQN8n_wOZeoXPp1ugCFOk1gzJYDcyjJ"
+          "url": "https://drive.google.com/uc?export=view&id=1ujQN8n_wOZeoXPp1ugCFOk1gzJYDcyjJ"
         }
       ],
       "feeText": "5000",
@@ -56,7 +56,7 @@
         {
           "type": "pdf",
           "title": "資料PDF",
-          "url": "https://drive.google.com/uc?export=download&id=1zzCTau76TzKxIdjSWVn4vSgF6cS3BkhG"
+          "url": "https://drive.google.com/uc?export=view&id=1zzCTau76TzKxIdjSWVn4vSgF6cS3BkhG"
         }
       ],
       "phone": "090-5582-8511"
@@ -77,7 +77,7 @@
         {
           "type": "pdf",
           "title": "資料PDF",
-          "url": "https://drive.google.com/uc?export=download&id=150Q7-3D1U_kAQ_ZjLQ7IZt_HN04jbeWM"
+          "url": "https://drive.google.com/uc?export=view&id=150Q7-3D1U_kAQ_ZjLQ7IZt_HN04jbeWM"
         }
       ],
       "feeText": "５００円",
