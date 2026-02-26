@@ -1,11 +1,11 @@
 {
   "meta": {
     "schemaVersion": 1,
-    "contentVersion": 18,
-    "updatedAt": "2026-02-26T07:50:08.605Z",
+    "contentVersion": 19,
+    "updatedAt": "2026-02-26T12:21:15.125Z",
     "note": "Generated from Google Sheets by GAS (approval ok/ng)"
   },
-  "generatedAt": "2026-02-26T07:50:08.605Z",
+  "generatedAt": "2026-02-26T12:21:15.125Z",
   "shops": [
     {
       "id": "0f382847-aaa5-40ad-ae27-de89c5b8dbb1",
@@ -18,7 +18,7 @@
       "closed": "日, 不定休",
       "officialUrl": "https://r-evol.jp/",
       "images": [
-        "https://drive.google.com/uc?export=view&id=1t55AVk3mH9TEb3O_YY0I-oiVNUNpyKB-",
+        "https://drive.google.com/uc?export=view&id=1t55AVk3mH9TEb3O_YY0I-oiVNUNpyKB",
         "https://drive.google.com/uc?export=view&id=1BQ6afykhDhgjDFrG0ontK9Av7s637BWi",
         "https://drive.google.com/uc?export=view&id=1FaapoDyhXKxRvSyeXmeh__mATxAfjF-W"
       ],
@@ -26,18 +26,16 @@
         {
           "type": "pdf",
           "title": "資料PDF1",
-          "url": "https://drive.google.com/uc?export=download&id=14JMdwesH6-A5_9aA5PH9Uq6-rab62iC9"
+          "url": "https://drive.google.com/uc?export=view&id=14JMdwesH6-A5_9aA5PH9Uq6-rab62iC9"
         },
         {
           "type": "pdf",
           "title": "資料PDF2",
-          "url": "https://drive.google.com/uc?export=download&id=1ujQN8n_wOZeoXPp1ugCFOk1gzJYDcyjJ"
+          "url": "https://drive.google.com/uc?export=view&id=1ujQN8n_wOZeoXPp1ugCFOk1gzJYDcyjJ"
         }
       ],
       "feeText": "5000",
-      "phone": "080-0000-1111",
-      "relatedShopId": "",
-      "_listingType": "店舗情報"
+      "phone": "080-0000-1111"
     },
     {
       "id": "8ff2b974-461f-4fc8-82ef-89b1d0ae588e",
@@ -58,12 +56,10 @@
         {
           "type": "pdf",
           "title": "資料PDF",
-          "url": "https://drive.google.com/uc?export=download&id=1zzCTau76TzKxIdjSWVn4vSgF6cS3BkhG"
+          "url": "https://drive.google.com/uc?export=view&id=1zzCTau76TzKxIdjSWVn4vSgF6cS3BkhG"
         }
       ],
-      "phone": "090-5582-8511",
-      "relatedShopId": "",
-      "_listingType": "店舗情報"
+      "phone": "090-5582-8511"
     }
   ],
   "events": [
@@ -81,7 +77,7 @@
         {
           "type": "pdf",
           "title": "資料PDF",
-          "url": "https://drive.google.com/uc?export=download&id=150Q7-3D1U_kAQ_ZjLQ7IZt_HN04jbeWM"
+          "url": "https://drive.google.com/uc?export=view&id=150Q7-3D1U_kAQ_ZjLQ7IZt_HN04jbeWM"
         }
       ],
       "feeText": "５００円",
