@@ -1,14 +1,14 @@
 {
   "meta": {
     "schemaVersion": 1,
-    "contentVersion": 21,
-    "updatedAt": "2026-02-26T13:44:43.207Z",
+    "contentVersion": 22,
+    "updatedAt": "2026-02-26T14:14:04.181Z",
     "note": "Generated from Google Sheets by GAS (approval ok/ng) [B-mode: no Drive permission changes]"
   },
-  "generatedAt": "2026-02-26T13:44:43.207Z",
+  "generatedAt": "2026-02-26T14:14:04.181Z",
   "shops": [
     {
-      "id": "0f382847-aaa5-40ad-ae27-de89c5b8dbb1",
+      "id": "5f37e2d8-779a-4d27-838f-535dde3ba191",
       "name": "りらっく",
       "category": "その他",
       "summary": "SEITAI！",
@@ -38,7 +38,7 @@
       "phone": "080-0000-1111"
     },
     {
-      "id": "8ff2b974-461f-4fc8-82ef-89b1d0ae588e",
+      "id": "9aab95b3-83ea-411a-a163-9cb2f1a78faa",
       "name": "整体ジムりらっく",
       "category": "その他",
       "summary": "波佐見の整体",
@@ -64,8 +64,8 @@
   ],
   "events": [
     {
-      "id": "aaca61c9-6d5c-4568-aa9a-d38892f0b6b1",
-      "title": "りらっくキャンペーン",
+      "id": "0a1c68b2-2b91-4b72-bccc-75a7b663a9b2",
+      "title": "祭りだ！りらっくキャンペーン",
       "type": "town",
       "startDate": "2026-02-22",
       "endDate": "2026-03-14",
