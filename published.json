@@ -1,11 +1,11 @@
 {
   "meta": {
     "schemaVersion": 1,
-    "contentVersion": 16,
-    "updatedAt": "2026-02-21T16:53:00.253Z",
+    "contentVersion": 18,
+    "updatedAt": "2026-02-26T07:50:08.605Z",
     "note": "Generated from Google Sheets by GAS (approval ok/ng)"
   },
-  "generatedAt": "2026-02-21T16:53:00.253Z",
+  "generatedAt": "2026-02-26T07:50:08.605Z",
   "shops": [
     {
       "id": "0f382847-aaa5-40ad-ae27-de89c5b8dbb1",
@@ -36,6 +36,32 @@
       ],
       "feeText": "5000",
       "phone": "080-0000-1111",
+      "relatedShopId": "",
+      "_listingType": "店舗情報"
+    },
+    {
+      "id": "8ff2b974-461f-4fc8-82ef-89b1d0ae588e",
+      "name": "整体ジムりらっく",
+      "category": "その他",
+      "summary": "波佐見の整体",
+      "address": "波佐見町折敷瀬郷838-5",
+      "mapUrl": "https://share.google/S0kbZ2j9198yDmD4U",
+      "hours": "10:37〜20:37",
+      "closed": "日, 不定休",
+      "officialUrl": "",
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1QKSeGSVr5ZxDaaHlUE-mqFz0Ysw0asDX",
+        "https://drive.google.com/uc?export=view&id=1sue2-UzHn5bMmqM8PTL4YuluaFlxzKRC",
+        "https://drive.google.com/uc?export=view&id=1qSHJ-JdKuTWVugIZZQq5GMMxdIc4exdK"
+      ],
+      "attachments": [
+        {
+          "type": "pdf",
+          "title": "資料PDF",
+          "url": "https://drive.google.com/uc?export=download&id=1zzCTau76TzKxIdjSWVn4vSgF6cS3BkhG"
+        }
+      ],
+      "phone": "090-5582-8511",
       "relatedShopId": "",
       "_listingType": "店舗情報"
     }
