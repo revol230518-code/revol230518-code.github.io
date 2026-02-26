@@ -1,11 +1,11 @@
 {
   "meta": {
     "schemaVersion": 1,
-    "contentVersion": 24,
-    "updatedAt": "2026-02-26T14:39:57.247Z",
+    "contentVersion": 25,
+    "updatedAt": "2026-02-26T14:54:36.715Z",
     "note": "Generated from Google Sheets by GAS (approval ok/ng) [B-mode: no Drive permission changes]"
   },
-  "generatedAt": "2026-02-26T14:39:57.247Z",
+  "generatedAt": "2026-02-26T14:54:36.715Z",
   "shops": [
     {
       "id": "5f37e2d8-779a-4d27-838f-535dde3ba191",
@@ -18,27 +18,27 @@
       "closed": "日, 不定休",
       "officialUrl": "https://r-evol.jp/",
       "images": [
-        "https://drive.google.com/uc?export=view&id=1t55AVk3mH9TEb3O_YY0I-oiVNUNpyKB-",
-        "https://drive.google.com/uc?export=view&id=1BQ6afykhDhgjDFrG0ontK9Av7s637BWi",
-        "https://drive.google.com/uc?export=view&id=1FaapoDyhXKxRvSyeXmeh__mATxAfjF-W"
+        "https://lh3.googleusercontent.com/d/1t55AVk3mH9TEb3O_YY0I-oiVNUNpyKB-",
+        "https://lh3.googleusercontent.com/d/1BQ6afykhDhgjDFrG0ontK9Av7s637BWi",
+        "https://lh3.googleusercontent.com/d/1FaapoDyhXKxRvSyeXmeh__mATxAfjF-W"
       ],
       "attachments": [
         {
           "type": "pdf",
           "title": "資料PDF1",
-          "url": "https://drive.google.com/uc?export=view&id=14JMdwesH6-A5_9aA5PH9Uq6-rab62iC9"
+          "url": "https://drive.google.com/file/d/14JMdwesH6-A5_9aA5PH9Uq6-rab62iC9/view"
         },
         {
           "type": "pdf",
           "title": "資料PDF2",
-          "url": "https://drive.google.com/uc?export=view&id=1ujQN8n_wOZeoXPp1ugCFOk1gzJYDcyjJ"
+          "url": "https://drive.google.com/file/d/1ujQN8n_wOZeoXPp1ugCFOk1gzJYDcyjJ/view"
         }
       ],
       "feeText": "5000",
       "phone": "080-0000-1111"
     },
     {
-      "id": "9aab95b3-83ea-411a-a163-9cb2f1a78faa",
+      "id": "f036c527-a959-4dfc-8457-c1082dbc9d47",
       "name": "整体ジムりらっく",
       "category": "その他",
       "summary": "波佐見の整体",
@@ -48,15 +48,15 @@
       "closed": "日, 不定休",
       "officialUrl": "",
       "images": [
-        "https://drive.google.com/uc?export=view&id=1QKSeGSVr5ZxDaaHlUE-mqFz0Ysw0asDX",
-        "https://drive.google.com/uc?export=view&id=1sue2-UzHn5bMmqM8PTL4YuluaFlxzKRC",
-        "https://drive.google.com/uc?export=view&id=1qSHJ-JdKuTWVugIZZQq5GMMxdIc4exdK"
+        "https://lh3.googleusercontent.com/d/1QKSeGSVr5ZxDaaHlUE-mqFz0Ysw0asDX",
+        "https://lh3.googleusercontent.com/d/1sue2-UzHn5bMmqM8PTL4YuluaFlxzKRC",
+        "https://lh3.googleusercontent.com/d/1qSHJ-JdKuTWVugIZZQq5GMMxdIc4exdK"
       ],
       "attachments": [
         {
           "type": "pdf",
           "title": "資料PDF",
-          "url": "https://drive.google.com/uc?export=view&id=1zzCTau76TzKxIdjSWVn4vSgF6cS3BkhG"
+          "url": "https://drive.google.com/file/d/1zzCTau76TzKxIdjSWVn4vSgF6cS3BkhG/view"
         }
       ],
       "phone": "090-5582-8511"
@@ -73,12 +73,11 @@
       "mapUrl": "https://share.google/tQRBfE7KB0V8l6wHW",
       "summary": "",
       "officialUrl": "https://r-evol.jp/",
-      "images": [],
       "attachments": [
         {
           "type": "pdf",
           "title": "資料PDF",
-          "url": "https://drive.google.com/uc?export=view&id=150Q7-3D1U_kAQ_ZjLQ7IZt_HN04jbeWM"
+          "url": "https://drive.google.com/file/d/150Q7-3D1U_kAQ_ZjLQ7IZt_HN04jbeWM/view"
         }
       ],
       "feeText": "５００円",
