@@ -1,11 +1,11 @@
 {
   "meta": {
     "schemaVersion": 1,
-    "contentVersion": 23,
-    "updatedAt": "2026-02-26T14:26:33.096Z",
-    "note": "Generated from Google Sheets by GAS (approval ok/ng) [B-mode: no Drive permission changes] + lat/lng from mapUrl"
+    "contentVersion": 24,
+    "updatedAt": "2026-02-26T14:39:57.247Z",
+    "note": "Generated from Google Sheets by GAS (approval ok/ng) [B-mode: no Drive permission changes]"
   },
-  "generatedAt": "2026-02-26T14:26:33.096Z",
+  "generatedAt": "2026-02-26T14:39:57.247Z",
   "shops": [
     {
       "id": "5f37e2d8-779a-4d27-838f-535dde3ba191",
@@ -73,6 +73,7 @@
       "mapUrl": "https://share.google/tQRBfE7KB0V8l6wHW",
       "summary": "",
       "officialUrl": "https://r-evol.jp/",
+      "images": [],
       "attachments": [
         {
           "type": "pdf",
