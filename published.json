@@ -1,11 +1,11 @@
 {
   "meta": {
     "schemaVersion": 1,
-    "contentVersion": 25,
-    "updatedAt": "2026-02-26T14:54:36.715Z",
+    "contentVersion": 26,
+    "updatedAt": "2026-02-27T03:32:53.538Z",
     "note": "Generated from Google Sheets by GAS (approval ok/ng) [B-mode: no Drive permission changes]"
   },
-  "generatedAt": "2026-02-26T14:54:36.715Z",
+  "generatedAt": "2026-02-27T03:32:53.538Z",
   "shops": [
     {
       "id": "5f37e2d8-779a-4d27-838f-535dde3ba191",
