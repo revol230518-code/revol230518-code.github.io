@@ -1,11 +1,11 @@
 {
   "meta": {
     "schemaVersion": 1,
-    "contentVersion": 33,
-    "updatedAt": "2026-02-27T06:22:28.441Z",
+    "contentVersion": 34,
+    "updatedAt": "2026-02-27T16:46:31.151Z",
     "note": "Generated from Google Sheets by GAS (approval ok/ng) [B-mode] + auto lat/lng (GAS Maps) + mapUrl fallback"
   },
-  "generatedAt": "2026-02-27T06:22:28.441Z",
+  "generatedAt": "2026-02-27T16:46:31.151Z",
   "shops": [
     {
       "id": "5f37e2d8-779a-4d27-838f-535dde3ba191",
@@ -88,6 +88,38 @@
       ],
       "feeText": "５００円",
       "phone": "090-0000-1111"
+    },
+    {
+      "id": "7737770c-e109-4d9c-8f4c-c4f514694f51",
+      "title": "りらっく春の大祭り",
+      "type": "town",
+      "startDate": "2026-03-01",
+      "endDate": "2026-03-14",
+      "place": "波佐見町折敷瀬郷838-5",
+      "mapUrl": "https://share.google/d4sUr4qj19xlalLBA",
+      "lat": 33.1483886,
+      "lng": 129.9001639,
+      "summary": "みかん掴み取り",
+      "officialUrl": "",
+      "images": [
+        "https://lh3.googleusercontent.com/d/1smD1eG04YIS9zJUpoLtpazcVSYx2SSaE",
+        "https://lh3.googleusercontent.com/d/1AWigTpStCFJwyl-kWnfbM_gdzxVJVAre",
+        "https://lh3.googleusercontent.com/d/13x7uGrxAJmQgnqmvHtmE0uQs3KJp0PDq",
+        "https://lh3.googleusercontent.com/d/18syEx8aaZnyrsXqeI-L_IFUw-h1C1geg"
+      ],
+      "attachments": [
+        {
+          "type": "pdf",
+          "title": "資料PDF1",
+          "url": "https://drive.google.com/uc?export=view&id=1jrGoJiyaUVGqugCfgK50n4bpgff-2UrT"
+        },
+        {
+          "type": "pdf",
+          "title": "資料PDF2",
+          "url": "https://drive.google.com/uc?export=view&id=1Us4AzDAsP6OajSmbvgJn-JeglLVdLu8w"
+        }
+      ],
+      "feeText": "1000円"
     }
   ]
 }
