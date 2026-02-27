@@ -1,11 +1,11 @@
 {
   "meta": {
     "schemaVersion": 1,
-    "contentVersion": 31,
-    "updatedAt": "2026-02-27T06:14:23.465Z",
-    "note": "Generated from Google Sheets by GAS (approval ok/ng) [B-mode] + auto lat/lng + mapUrl fallback"
+    "contentVersion": 32,
+    "updatedAt": "2026-02-27T06:20:58.072Z",
+    "note": "Generated from Google Sheets by GAS (approval ok/ng) [B-mode] + auto lat/lng (GAS Maps) + mapUrl fallback"
   },
-  "generatedAt": "2026-02-27T06:14:23.465Z",
+  "generatedAt": "2026-02-27T06:20:58.072Z",
   "shops": [
     {
       "id": "5f37e2d8-779a-4d27-838f-535dde3ba191",
@@ -14,8 +14,8 @@
       "summary": "SEITAI！",
       "address": "波佐見町折敷瀬郷838-5",
       "mapUrl": "https://share.google/YdpIfEiRqIIotVAzK",
-      "lat": null,
-      "lng": null,
+      "lat": 33.1483886,
+      "lng": 129.9001639,
       "hours": "10:00〜20:00",
       "closed": "日, 不定休",
       "officialUrl": "https://r-evol.jp/",
@@ -46,8 +46,8 @@
       "summary": "波佐見の整体",
       "address": "波佐見町折敷瀬郷838-5",
       "mapUrl": "https://share.google/S0kbZ2j9198yDmD4U",
-      "lat": null,
-      "lng": null,
+      "lat": 33.1483886,
+      "lng": 129.9001639,
       "hours": "10:37〜20:37",
       "closed": "日, 不定休",
       "officialUrl": "",
