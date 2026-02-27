@@ -1,11 +1,11 @@
 {
   "meta": {
     "schemaVersion": 1,
-    "contentVersion": 29,
-    "updatedAt": "2026-02-27T05:43:26.486Z",
-    "note": "Generated from Google Sheets by GAS (approval ok/ng) [B-mode: no Drive permission changes] + auto lat/lng + mapUrl fallback"
+    "contentVersion": 30,
+    "updatedAt": "2026-02-27T06:12:17.846Z",
+    "note": "Generated from Google Sheets by GAS (approval ok/ng) [B-mode] + auto lat/lng + mapUrl fallback"
   },
-  "generatedAt": "2026-02-27T05:43:26.486Z",
+  "generatedAt": "2026-02-27T06:12:17.846Z",
   "shops": [
     {
       "id": "5f37e2d8-779a-4d27-838f-535dde3ba191",
