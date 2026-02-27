@@ -1,11 +1,11 @@
 {
   "meta": {
     "schemaVersion": 1,
-    "contentVersion": 28,
-    "updatedAt": "2026-02-27T03:47:23.963Z",
-    "note": "Generated from Google Sheets by GAS (approval ok/ng) [B-mode: no Drive permission changes]"
+    "contentVersion": 29,
+    "updatedAt": "2026-02-27T05:43:26.486Z",
+    "note": "Generated from Google Sheets by GAS (approval ok/ng) [B-mode: no Drive permission changes] + auto lat/lng + mapUrl fallback"
   },
-  "generatedAt": "2026-02-27T03:47:23.963Z",
+  "generatedAt": "2026-02-27T05:43:26.486Z",
   "shops": [
     {
       "id": "5f37e2d8-779a-4d27-838f-535dde3ba191",
@@ -14,6 +14,8 @@
       "summary": "SEITAI！",
       "address": "波佐見町折敷瀬郷838-5",
       "mapUrl": "https://share.google/YdpIfEiRqIIotVAzK",
+      "lat": null,
+      "lng": null,
       "hours": "10:00〜20:00",
       "closed": "日, 不定休",
       "officialUrl": "https://r-evol.jp/",
@@ -26,14 +28,12 @@
         {
           "type": "pdf",
           "title": "資料PDF1",
-          "url": "https://drive.google.com/uc?export=view&id=14JMdwesH6-A5_9aA5PH9Uq6-rab62iC9",
-          "coverUrl": "https://drive.google.com/thumbnail?sz=w640&id=14JMdwesH6-A5_9aA5PH9Uq6-rab62iC9"
+          "url": "https://drive.google.com/uc?export=view&id=14JMdwesH6-A5_9aA5PH9Uq6-rab62iC9"
         },
         {
           "type": "pdf",
           "title": "資料PDF2",
-          "url": "https://drive.google.com/uc?export=view&id=1ujQN8n_wOZeoXPp1ugCFOk1gzJYDcyjJ",
-          "coverUrl": "https://drive.google.com/thumbnail?sz=w640&id=1ujQN8n_wOZeoXPp1ugCFOk1gzJYDcyjJ"
+          "url": "https://drive.google.com/uc?export=view&id=1ujQN8n_wOZeoXPp1ugCFOk1gzJYDcyjJ"
         }
       ],
       "feeText": "5000",
@@ -46,6 +46,8 @@
       "summary": "波佐見の整体",
       "address": "波佐見町折敷瀬郷838-5",
       "mapUrl": "https://share.google/S0kbZ2j9198yDmD4U",
+      "lat": null,
+      "lng": null,
       "hours": "10:37〜20:37",
       "closed": "日, 不定休",
       "officialUrl": "",
@@ -58,8 +60,7 @@
         {
           "type": "pdf",
           "title": "資料PDF",
-          "url": "https://drive.google.com/uc?export=view&id=1zzCTau76TzKxIdjSWVn4vSgF6cS3BkhG",
-          "coverUrl": "https://drive.google.com/thumbnail?sz=w640&id=1zzCTau76TzKxIdjSWVn4vSgF6cS3BkhG"
+          "url": "https://drive.google.com/uc?export=view&id=1zzCTau76TzKxIdjSWVn4vSgF6cS3BkhG"
         }
       ],
       "phone": "090-5582-8511"
@@ -74,14 +75,15 @@
       "endDate": "2026-03-14",
       "place": "整体ジムりらっく",
       "mapUrl": "https://share.google/tQRBfE7KB0V8l6wHW",
+      "lat": null,
+      "lng": null,
       "summary": "",
       "officialUrl": "https://r-evol.jp/",
       "attachments": [
         {
           "type": "pdf",
           "title": "資料PDF",
-          "url": "https://drive.google.com/uc?export=view&id=150Q7-3D1U_kAQ_ZjLQ7IZt_HN04jbeWM",
-          "coverUrl": "https://drive.google.com/thumbnail?sz=w640&id=150Q7-3D1U_kAQ_ZjLQ7IZt_HN04jbeWM"
+          "url": "https://drive.google.com/uc?export=view&id=150Q7-3D1U_kAQ_ZjLQ7IZt_HN04jbeWM"
         }
       ],
       "feeText": "５００円",
