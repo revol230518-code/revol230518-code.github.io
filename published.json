@@ -1,11 +1,11 @@
 {
   "meta": {
     "schemaVersion": 1,
-    "contentVersion": 36,
-    "updatedAt": "2026-02-28T17:33:49.603Z",
+    "contentVersion": 37,
+    "updatedAt": "2026-02-28T17:34:50.403Z",
     "note": "Generated from shops_master/events_master by GAS (approval via status=active) + auto lat/lng (GAS Maps) + mapUrl fallback"
   },
-  "generatedAt": "2026-02-28T17:33:49.603Z",
+  "generatedAt": "2026-02-28T17:34:50.403Z",
   "shops": [
     {
       "id": "ok",
