@@ -1,34 +1,10 @@
 {
   "meta": {
     "schemaVersion": 1,
-    "contentVersion": 37,
-    "updatedAt": "2026-02-28T17:34:50.403Z",
-    "note": "Generated from shops_master/events_master by GAS (approval via status=active) + auto lat/lng (GAS Maps) + mapUrl fallback"
+    "contentVersion": 38,
+    "updatedAt": "2026-02-28T19:50:56.934Z"
   },
-  "generatedAt": "2026-02-28T17:34:50.403Z",
-  "shops": [
-    {
-      "id": "ok",
-      "name": "Thu Feb 26 2026 16:49:19 GMT+0900 (Japan Standard Time)",
-      "category": "整体ジムりらっく",
-      "summary": "店舗情報",
-      "address": "https://share.google/S0kbZ2j9198yDmD4U",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=https%3A%2F%2Fshare.google%2FS0kbZ2j9198yDmD4U",
-      "lat": 33.2488525,
-      "lng": 129.6930912,
-      "closed": "波佐見町折敷瀬郷838-5",
-      "contactText": "波佐見の整体",
-      "images": [
-        "https://lh3.googleusercontent.com/d/1QKSeGSVr5ZxDaaHlUE-mqFz0Ysw0asDX, https://drive.google.com/open?id=1sue2-UzHn5bMmqM8PTL4YuluaFlxzKRC, https://drive.google.com/open?id=1qSHJ-JdKuTWVugIZZQq5GMMxdIc4exdK"
-      ],
-      "attachments": [
-        {
-          "type": "pdf",
-          "title": "資料PDF",
-          "url": "https://drive.google.com/uc?export=view&id=1zzCTau76TzKxIdjSWVn4vSgF6cS3BkhG"
-        }
-      ]
-    }
-  ],
+  "generatedAt": "2026-02-28T19:50:56.934Z",
+  "shops": [],
   "events": []
 }
