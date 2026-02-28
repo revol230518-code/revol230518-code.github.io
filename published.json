@@ -1,60 +1,25 @@
 {
   "meta": {
     "schemaVersion": 1,
-    "contentVersion": 35,
-    "updatedAt": "2026-02-28T16:47:16.565Z",
-    "note": "Generated from Google Sheets by GAS (approval ok/ng) [B-mode] + auto lat/lng (GAS Maps) + mapUrl fallback"
+    "contentVersion": 36,
+    "updatedAt": "2026-02-28T17:33:49.603Z",
+    "note": "Generated from shops_master/events_master by GAS (approval via status=active) + auto lat/lng (GAS Maps) + mapUrl fallback"
   },
-  "generatedAt": "2026-02-28T16:47:16.565Z",
+  "generatedAt": "2026-02-28T17:33:49.603Z",
   "shops": [
     {
-      "id": "5f37e2d8-779a-4d27-838f-535dde3ba191",
-      "name": "りらっく",
-      "category": "その他",
-      "summary": "SEITAI！",
-      "address": "波佐見町折敷瀬郷838-5",
-      "mapUrl": "https://share.google/YdpIfEiRqIIotVAzK",
-      "lat": 33.1483886,
-      "lng": 129.9001639,
-      "hours": "10:00〜20:00",
-      "closed": "日, 不定休",
-      "officialUrl": "https://r-evol.jp/",
+      "id": "ok",
+      "name": "Thu Feb 26 2026 16:49:19 GMT+0900 (Japan Standard Time)",
+      "category": "整体ジムりらっく",
+      "summary": "店舗情報",
+      "address": "https://share.google/S0kbZ2j9198yDmD4U",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=https%3A%2F%2Fshare.google%2FS0kbZ2j9198yDmD4U",
+      "lat": 33.2488525,
+      "lng": 129.6930912,
+      "closed": "波佐見町折敷瀬郷838-5",
+      "contactText": "波佐見の整体",
       "images": [
-        "https://lh3.googleusercontent.com/d/1t55AVk3mH9TEb3O_YY0I-oiVNUNpyKB-",
-        "https://lh3.googleusercontent.com/d/1BQ6afykhDhgjDFrG0ontK9Av7s637BWi",
-        "https://lh3.googleusercontent.com/d/1FaapoDyhXKxRvSyeXmeh__mATxAfjF-W"
-      ],
-      "attachments": [
-        {
-          "type": "pdf",
-          "title": "資料PDF1",
-          "url": "https://drive.google.com/uc?export=view&id=14JMdwesH6-A5_9aA5PH9Uq6-rab62iC9"
-        },
-        {
-          "type": "pdf",
-          "title": "資料PDF2",
-          "url": "https://drive.google.com/uc?export=view&id=1ujQN8n_wOZeoXPp1ugCFOk1gzJYDcyjJ"
-        }
-      ],
-      "feeText": "5000",
-      "phone": "080-0000-1111"
-    },
-    {
-      "id": "f036c527-a959-4dfc-8457-c1082dbc9d47",
-      "name": "整体ジムりらっく",
-      "category": "その他",
-      "summary": "波佐見の整体",
-      "address": "波佐見町折敷瀬郷838-5",
-      "mapUrl": "https://share.google/S0kbZ2j9198yDmD4U",
-      "lat": 33.1483886,
-      "lng": 129.9001639,
-      "hours": "10:37〜20:37",
-      "closed": "日, 不定休",
-      "officialUrl": "",
-      "images": [
-        "https://lh3.googleusercontent.com/d/1QKSeGSVr5ZxDaaHlUE-mqFz0Ysw0asDX",
-        "https://lh3.googleusercontent.com/d/1sue2-UzHn5bMmqM8PTL4YuluaFlxzKRC",
-        "https://lh3.googleusercontent.com/d/1qSHJ-JdKuTWVugIZZQq5GMMxdIc4exdK"
+        "https://lh3.googleusercontent.com/d/1QKSeGSVr5ZxDaaHlUE-mqFz0Ysw0asDX, https://drive.google.com/open?id=1sue2-UzHn5bMmqM8PTL4YuluaFlxzKRC, https://drive.google.com/open?id=1qSHJ-JdKuTWVugIZZQq5GMMxdIc4exdK"
       ],
       "attachments": [
         {
@@ -62,64 +27,8 @@
           "title": "資料PDF",
           "url": "https://drive.google.com/uc?export=view&id=1zzCTau76TzKxIdjSWVn4vSgF6cS3BkhG"
         }
-      ],
-      "phone": "090-5582-8511"
+      ]
     }
   ],
-  "events": [
-    {
-      "id": "0a1c68b2-2b91-4b72-bccc-75a7b663a9b2",
-      "title": "祭りだ！りらっくキャンペーン",
-      "type": "town",
-      "startDate": "2026-02-22",
-      "endDate": "2026-03-14",
-      "place": "整体ジムりらっく",
-      "mapUrl": "https://share.google/tQRBfE7KB0V8l6wHW",
-      "lat": null,
-      "lng": null,
-      "summary": "",
-      "officialUrl": "https://r-evol.jp/",
-      "attachments": [
-        {
-          "type": "pdf",
-          "title": "資料PDF",
-          "url": "https://drive.google.com/uc?export=view&id=150Q7-3D1U_kAQ_ZjLQ7IZt_HN04jbeWM"
-        }
-      ],
-      "feeText": "５００円",
-      "phone": "090-0000-1111"
-    },
-    {
-      "id": "7737770c-e109-4d9c-8f4c-c4f514694f51",
-      "title": "りらっく春の大祭り",
-      "type": "town",
-      "startDate": "2026-03-01",
-      "endDate": "2026-03-14",
-      "place": "波佐見町折敷瀬郷838-5",
-      "mapUrl": "https://share.google/d4sUr4qj19xlalLBA",
-      "lat": 33.1483886,
-      "lng": 129.9001639,
-      "summary": "みかん掴み取り",
-      "officialUrl": "",
-      "images": [
-        "https://lh3.googleusercontent.com/d/1smD1eG04YIS9zJUpoLtpazcVSYx2SSaE",
-        "https://lh3.googleusercontent.com/d/1AWigTpStCFJwyl-kWnfbM_gdzxVJVAre",
-        "https://lh3.googleusercontent.com/d/13x7uGrxAJmQgnqmvHtmE0uQs3KJp0PDq",
-        "https://lh3.googleusercontent.com/d/18syEx8aaZnyrsXqeI-L_IFUw-h1C1geg"
-      ],
-      "attachments": [
-        {
-          "type": "pdf",
-          "title": "資料PDF1",
-          "url": "https://drive.google.com/uc?export=view&id=1jrGoJiyaUVGqugCfgK50n4bpgff-2UrT"
-        },
-        {
-          "type": "pdf",
-          "title": "資料PDF2",
-          "url": "https://drive.google.com/uc?export=view&id=1Us4AzDAsP6OajSmbvgJn-JeglLVdLu8w"
-        }
-      ],
-      "feeText": "1000円"
-    }
-  ]
+  "events": []
 }
