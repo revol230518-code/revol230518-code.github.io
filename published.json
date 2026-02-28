@@ -1,10 +1,21 @@
 {
   "meta": {
     "schemaVersion": 1,
-    "contentVersion": 40,
-    "updatedAt": "2026-02-28T19:56:00.665Z"
+    "contentVersion": 41,
+    "updatedAt": "2026-02-28T19:57:08.165Z"
   },
-  "generatedAt": "2026-02-28T19:56:00.665Z",
-  "shops": [],
+  "generatedAt": "2026-02-28T19:57:08.165Z",
+  "shops": [
+    {
+      "id": "A0001",
+      "name": "りらっく",
+      "category": "",
+      "summary": "",
+      "address": "",
+      "mapUrl": "",
+      "lat": 0,
+      "lng": 0
+    }
+  ],
   "events": []
 }
