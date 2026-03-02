@@ -1,10 +1,10 @@
 {
   "meta": {
     "schemaVersion": 1,
-    "contentVersion": 49,
-    "updatedAt": "2026-03-02T07:13:22.004Z"
+    "contentVersion": 50,
+    "updatedAt": "2026-03-02T07:31:54.170Z"
   },
-  "generatedAt": "2026-03-02T07:13:22.004Z",
+  "generatedAt": "2026-03-02T07:31:54.170Z",
   "shops": [
     {
       "id": "A0001",
@@ -53,6 +53,12 @@
       "images": [
         "https://firebasestorage.googleapis.com/v0/b/hasami-guide.firebasestorage.app/o/uploads%2Fshop%2FF4o8OwDqfwaqRcrhZwPMd5jAFDF2%2F4f3ebb50-464e-47f1-ab19-ab8c130a972d%2Fimages%2F1772433743977_1_Gemini_Generated_Image_a1h2iya1h2iya1h2.jpg?alt=media&token=0b6cb31e-7fd3-4ff9-a242-985e1b40a1f2",
         "https://firebasestorage.googleapis.com/v0/b/hasami-guide.firebasestorage.app/o/uploads%2Fshop%2FF4o8OwDqfwaqRcrhZwPMd5jAFDF2%2F4f3ebb50-464e-47f1-ab19-ab8c130a972d%2Fimages%2F1772433747412_2_ChatGPT_Image_2026_2_12_12_07_55.jpg?alt=media&token=752a7d4a-9af8-4af1-ad4b-ba9276148737"
+      ],
+      "pdfs": [
+        {
+          "title": "Hasamiガイド Lpログイン・権限管理 仕様書（改訂版）",
+          "url": "https://firebasestorage.googleapis.com/v0/b/hasami-guide.firebasestorage.app/o/uploads%2Fshop%2FF4o8OwDqfwaqRcrhZwPMd5jAFDF2%2F4f3ebb50-464e-47f1-ab19-ab8c130a972d%2Fpdfs%2F1772433753077_1_Hasami_Lp_.pdf?alt=media&token=1b2cfa24-2ff1-48d0-b491-d42c32a537db"
+        }
       ],
       "attachments": [
         {
