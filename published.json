@@ -1,10 +1,10 @@
 {
   "meta": {
     "schemaVersion": 1,
-    "contentVersion": 47,
-    "updatedAt": "2026-03-02T06:24:51.384Z"
+    "contentVersion": 48,
+    "updatedAt": "2026-03-02T07:04:25.926Z"
   },
-  "generatedAt": "2026-03-02T06:24:51.384Z",
+  "generatedAt": "2026-03-02T07:04:25.926Z",
   "shops": [
     {
       "id": "A0001",
@@ -15,6 +15,45 @@
       "mapUrl": "",
       "lat": 0,
       "lng": 0
+    },
+    {
+      "id": "A0002",
+      "name": "りらっく",
+      "category": "その他サービス",
+      "summary": "",
+      "address": "",
+      "mapUrl": "",
+      "lat": 0,
+      "lng": 0
+    },
+    {
+      "id": "A0002",
+      "name": "りらっく＠＠",
+      "category": "飲食・カフェ",
+      "summary": "",
+      "address": "",
+      "mapUrl": "",
+      "lat": 0,
+      "lng": 0,
+      "closed": "定休:月・日 / 不定休あり"
+    },
+    {
+      "id": "A0002",
+      "name": "あーるえぼ",
+      "category": "その他サービス",
+      "summary": "てすてす",
+      "description": "aaaabbbb",
+      "address": "折敷瀬郷838-5",
+      "mapUrl": "https://share.google/oShCqU2orETQ6Sz09",
+      "lat": 0,
+      "lng": 0,
+      "hours": "10:00〜20:00",
+      "closed": "定休:日 / 不定休あり",
+      "officialUrl": "https://r-evol.jp/",
+      "images": [
+        "https://firebasestorage.googleapis.com/v0/b/hasami-guide.firebasestorage.app/o/uploads%2Fshop%2FF4o8OwDqfwaqRcrhZwPMd5jAFDF2%2F4f3ebb50-464e-47f1-ab19-ab8c130a972d%2Fimages%2F1772433743977_1_Gemini_Generated_Image_a1h2iya1h2iya1h2.jpg?alt=media&token=0b6cb31e-7fd3-4ff9-a242-985e1b40a1f2",
+        "https://firebasestorage.googleapis.com/v0/b/hasami-guide.firebasestorage.app/o/uploads%2Fshop%2FF4o8OwDqfwaqRcrhZwPMd5jAFDF2%2F4f3ebb50-464e-47f1-ab19-ab8c130a972d%2Fimages%2F1772433747412_2_ChatGPT_Image_2026_2_12_12_07_55.jpg?alt=media&token=752a7d4a-9af8-4af1-ad4b-ba9276148737"
+      ]
     }
   ],
   "events": []
