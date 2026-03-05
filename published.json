@@ -1,11 +1,11 @@
 {
   "meta": {
     "schemaVersion": 1,
-    "contentVersion": 64,
-    "updatedAt": "2026-03-05T11:34:17.919Z",
+    "contentVersion": 65,
+    "updatedAt": "2026-03-05T11:54:38.532Z",
     "note": "Generated from Google Sheets by GAS (approval ok/ng) / stable A: pdfs string[]"
   },
-  "generatedAt": "2026-03-05T11:34:17.919Z",
+  "generatedAt": "2026-03-05T11:54:38.532Z",
   "shops": [],
   "events": []
 }
