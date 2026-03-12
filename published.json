@@ -1,18 +1,25 @@
 {
-  "contentVersion": "2026-03-12T16:28:43+09:00",
-  "generatedAt": "2026-03-12T07:28:43.607Z",
+  "contentVersion": "2026-03-12T19:53:53+09:00",
+  "generatedAt": "2026-03-12T10:53:53.095Z",
   "shops": [
     {
       "shopId": "A0001",
-      "name": "あーるえぼ３３３",
-      "category": "その他",
-      "summary": "りらっく店",
-      "description": "整体ジム",
-      "address": "波佐見町折敷瀬郷838-5",
-      "mapUrl": "https://share.google/g3HS5EqSilSbkrOUO",
-      "hours": "10:00-20:00",
-      "closed": "不定休",
-      "contactText": "090-5582-8511"
+      "name": "あーるえぼ",
+      "category": "雑貨・小売り",
+      "summary": "てすと！",
+      "description": "てすと！！！！！！！！！",
+      "address": "折敷瀬郷838-5",
+      "mapUrl": "https://share.google/oShCqU2orETQ6Sz09",
+      "hours": "09:00〜18:00",
+      "contactText": "０９５６－９９－９９９９",
+      "images": [
+        "https://firebasestorage.googleapis.com/v0/b/hasami-guide.firebasestorage.app/o/uploads%2Fshop%2FF4o8OwDqfwaqRcrhZwPMd5jAFDF2%2F601a6334-c991-400d-902c-52ba14928cf8%2Fimages%2F1772441676449_1_ChatGPT_Image_2026_2_12_11_16_49.jpg?alt=media&token=29e08d1f-bb03-4831-83b2-26e7afbd7f9b",
+        "https://firebasestorage.googleapis.com/v0/b/hasami-guide.firebasestorage.app/o/uploads%2Fshop%2FF4o8OwDqfwaqRcrhZwPMd5jAFDF2%2F601a6334-c991-400d-902c-52ba14928cf8%2Fimages%2F1772441680771_2__.jpg?alt=media&token=eed09dd4-f8c9-4584-9bcb-9a8ecb49a96f",
+        "https://firebasestorage.googleapis.com/v0/b/hasami-guide.firebasestorage.app/o/uploads%2Fshop%2FF4o8OwDqfwaqRcrhZwPMd5jAFDF2%2F601a6334-c991-400d-902c-52ba14928cf8%2Fimages%2F1772441684732_3__1_.jpg?alt=media&token=7d7d78be-1044-46c3-94c3-6a5a144409e7"
+      ],
+      "pdfs": [
+        "[{\"title\":\"Hasamiガイド：firebase＋lp連携 作業報告書（2026-03-02時点）\",\"url\":\"https://firebasestorage.googleapis.com/v0/b/hasami-guide.firebasestorage.app/o/uploads%2Fshop%2FF4o8OwDqfwaqRcrhZwPMd5jAFDF2%2F601a6334-c991-400d-902c-52ba14928cf8%2Fpdfs%2F1772441688126_1_Hasami_firebase_lp_2026-03-02_.pdf?alt=media&token=50b790b4-8599-458a-a1da-39d27c5e7599\"}]"
+      ]
     },
     {
       "shopId": "A0002",
