@@ -1,6 +1,51 @@
 {
-  "contentVersion": 76,
-  "generatedAt": "2026-03-08T17:02:54.060Z",
-  "shops": [],
-  "events": []
+  "contentVersion": "2026-03-12T16:28:43+09:00",
+  "generatedAt": "2026-03-12T07:28:43.607Z",
+  "shops": [
+    {
+      "shopId": "A0001",
+      "name": "あーるえぼ３３３",
+      "category": "その他",
+      "summary": "りらっく店",
+      "description": "整体ジム",
+      "address": "波佐見町折敷瀬郷838-5",
+      "mapUrl": "https://share.google/g3HS5EqSilSbkrOUO",
+      "hours": "10:00-20:00",
+      "closed": "不定休",
+      "contactText": "090-5582-8511"
+    },
+    {
+      "shopId": "A0002",
+      "name": "あーるEVO",
+      "category": "宿泊",
+      "address": "折敷瀬郷838-5",
+      "contactText": "090-1234-5678"
+    }
+  ],
+  "events": [
+    {
+      "eventId": "B0001",
+      "title": "たべっとっときゃんぺーん",
+      "startDate": "2026-03-02",
+      "endDate": "2026-04-11",
+      "place": "整体ジムりらっく",
+      "mapUrl": "https://share.google/oShCqU2orETQ6Sz09",
+      "images": [
+        "https://firebasestorage.googleapis.com/v0/b/hasami-guide.firebasestorage.app/o/uploads%2Fevent%2FF4o8OwDqfwaqRcrhZwPMd5jAFDF2%2Fe4d23da7-7f9b-46ae-842a-1e2f0ebba13d%2Fimages%2F1772441789668_1_Gemini_Generated_Image_q9ctzmq9ctzmq9ct.jpg?alt=media&token=3a17d9dc-cfde-457f-8ea2-2e9167ea81c8",
+        "https://firebasestorage.googleapis.com/v0/b/hasami-guide.firebasestorage.app/o/uploads%2Fevent%2FF4o8OwDqfwaqRcrhZwPMd5jAFDF2%2Fe4d23da7-7f9b-46ae-842a-1e2f0ebba13d%2Fimages%2F1772441793140_2__9_.jpg?alt=media&token=a6936c23-09a7-4bde-902a-236b563a173a",
+        "https://firebasestorage.googleapis.com/v0/b/hasami-guide.firebasestorage.app/o/uploads%2Fevent%2FF4o8OwDqfwaqRcrhZwPMd5jAFDF2%2Fe4d23da7-7f9b-46ae-842a-1e2f0ebba13d%2Fimages%2F1772441796370_3__.jpg?alt=media&token=a09284f7-5938-4808-9bc5-11ad62f59fe8"
+      ],
+      "pdfs": [
+        "[{\"title\":\"波佐見ガイド データ反映仕様書（更新版・id運用_lp対応）\",\"url\":\"https://firebasestorage.googleapis.com/v0/b/hasami-guide.firebasestorage.app/o/uploads%2Fevent%2FF4o8OwDqfwaqRcrhZwPMd5jAFDF2%2Fe4d23da7-7f9b-46ae-842a-1e2f0ebba13d%2Fpdfs%2F1772441800182_1__id__lp_.pdf?alt=media&token=53bc1414-3dc5-4f0e-99aa-780375189567\"}]"
+      ]
+    },
+    {
+      "eventId": "B0002",
+      "title": "いべいべ"
+    },
+    {
+      "eventId": "B0003",
+      "title": "ＲＲＲＲ"
+    }
+  ]
 }
