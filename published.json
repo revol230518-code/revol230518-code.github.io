@@ -1,6 +1,6 @@
 {
-  "contentVersion": "2026-03-12T19:55:07+09:00",
-  "generatedAt": "2026-03-12T10:55:07.653Z",
+  "contentVersion": "2026-03-12T19:55:31+09:00",
+  "generatedAt": "2026-03-12T10:55:31.470Z",
   "shops": [
     {
       "shopId": "A0001",
@@ -28,6 +28,13 @@
       "category": "宿泊",
       "address": "折敷瀬郷838-5",
       "contactText": "090-1234-5678"
+    },
+    {
+      "shopId": "A0003",
+      "name": "ああああ",
+      "category": "器・ギャラリー",
+      "address": "折敷瀬郷838-5",
+      "contactText": "090-0000-2222"
     }
   ],
   "events": [
