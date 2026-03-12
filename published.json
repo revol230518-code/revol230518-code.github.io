@@ -1,14 +1,25 @@
 {
-  "contentVersion": "2026-03-12T19:54:17+09:00",
-  "generatedAt": "2026-03-12T10:54:17.821Z",
+  "contentVersion": "2026-03-12T19:55:07+09:00",
+  "generatedAt": "2026-03-12T10:55:07.653Z",
   "shops": [
     {
       "shopId": "A0001",
-      "name": "Revo Reluck",
-      "category": "器・ギャラリー",
-      "address": "波佐見",
+      "name": "あーるえぼ３３３",
+      "category": "宿泊",
+      "summary": "りらっく店",
+      "description": "整体ジム",
+      "address": "折敷瀬郷838-5",
+      "mapUrl": "https://share.google/g3HS5EqSilSbkrOUO",
+      "hours": "10:00〜20:00",
+      "closed": "日曜日 / 不定休",
+      "contactText": "TEL: 090-1234-5678 / MAIL: r.evol.230518@gmail.com / 案内: 予約制/お気軽に！",
       "images": [
-        "https://firebasestorage.googleapis.com/v0/b/hasami-guide.firebasestorage.app/o/uploads%2Fshop%2F4FLL2Es7jUd232ZG1gtVxNc2uyF3%2Fee1fa2dd-dbca-43d1-bf08-ddb705c08b63%2Fimages%2F1772455700807_1_Business_Suite_creation_1420553252838201_1_.jpg?alt=media&token=bb951b1f-9a30-4816-adcd-9ccdb99d7815"
+        "https://firebasestorage.googleapis.com/v0/b/hasami-guide.firebasestorage.app/o/portal_uploads%2FF4o8OwDqfwaqRcrhZwPMd5jAFDF2%2Fshops%2Fimages%2F1773312540478_6xv22ndi_file.png?alt=media&token=23a5ce47-f97e-4a5a-8623-d12a532ad788",
+        "https://firebasestorage.googleapis.com/v0/b/hasami-guide.firebasestorage.app/o/portal_uploads%2FF4o8OwDqfwaqRcrhZwPMd5jAFDF2%2Fshops%2Fimages%2F1773312558206_23ml65ud_3.png?alt=media&token=1470f7b3-2f83-4c49-b6e1-686d5e5ab212",
+        "https://firebasestorage.googleapis.com/v0/b/hasami-guide.firebasestorage.app/o/portal_uploads%2FF4o8OwDqfwaqRcrhZwPMd5jAFDF2%2Fshops%2Fimages%2F1773312568831_0e34yxzb_line_oa_chat_260204_174952.jpg?alt=media&token=2080ead7-1548-4d19-952e-16ceceaaff57"
+      ],
+      "pdfs": [
+        "https://firebasestorage.googleapis.com/v0/b/hasami-guide.firebasestorage.app/o/portal_uploads%2FF4o8OwDqfwaqRcrhZwPMd5jAFDF2%2Fshops%2Fpdfs%2F1773312579348_3gh0v1xy_Hasami_2026-03-09.pdf?alt=media&token=3b18e94c-5be6-422f-b7bb-bfe6187aa457"
       ]
     },
     {
